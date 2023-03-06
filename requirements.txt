@@ -1,0 +1,10 @@
+allure-pytest==2.13.0
+dynaconf[yaml]==3.1.12
+giveme==1.2.0
+pytest==7.2.1
+pytest-env==0.8.1
+pytest-xdist==3.2.0
+mimesis==7.0.0
+requests==2.28.2
+selenium==4.8.2
+webdriver-manager==3.8.5
